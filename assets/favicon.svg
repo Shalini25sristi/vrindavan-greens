@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Vrindavan Greens">
+  <rect width="64" height="64" rx="12" fill="#0F3524"/>
+  <path d="M45 8C24 16 15 36 20 52c3 10 12 12 18 4 9-13 11-33 7-48Z" fill="#E8B14A"/>
+  <path d="M40 14C32 26 27 40 24 54" fill="none" stroke="#0F3524" stroke-width="2.4" stroke-linecap="round"/>
+  <ellipse cx="38" cy="20" rx="5" ry="8" fill="#0C5B63"/>
+  <ellipse cx="38" cy="20" rx="2" ry="3.4" fill="#082116"/>
+</svg>

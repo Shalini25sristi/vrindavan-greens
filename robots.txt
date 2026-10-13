@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /_src.html
+Disallow: /_build_pages.py
+Disallow: /index (3).html
+
+Sitemap: https://vrindavangreens.example/sitemap.xml

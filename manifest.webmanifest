@@ -1,0 +1,14 @@
+{
+  "name": "Vrindavan Greens",
+  "short_name": "Vrindavan",
+  "description": "A gated plotted community at Alaipur, Madanpur, near Kalyani, Nadia.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FDFAF3",
+  "theme_color": "#0F3524",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

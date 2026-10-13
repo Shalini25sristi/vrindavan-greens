@@ -1,0 +1,11 @@
+# Original download and Windows metadata
+index (3).html
+*:Zone.Identifier
+*.Identifier
+
+# Separate chatbot backend project (kept out of the website repo)
+interchangeable-chatbot-main/
+
+# OS / editor
+.DS_Store
+Thumbs.db
